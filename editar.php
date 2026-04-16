@@ -33,4 +33,6 @@ if (!$videojuego) {
         </form>
     </div>
 </div>
+<button class="btn btn-warning"><a href="mostrar.php">Listar videojuegos</a></button>
+<button class="btn btn-warning"><a href="index.php">Volver a la página principal</a></button>
 <?php include_once "footer.php"; ?>
